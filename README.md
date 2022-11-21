@@ -1,4 +1,4 @@
-## Ggslito.githab.io
+## Ggslito.github.io
  >https://magasinyashota.wordpress.com/ (Site)
 
  1) SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
