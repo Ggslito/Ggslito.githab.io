@@ -1,8 +1,8 @@
 ## Ggslito.github.io
  >https://magasinyashota.wordpress.com/ (Site)
 
- >SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
- >SELECT * FROM users *, users.col2, users.col3 FROM table1 JOIN table2 USING(id)
+ >SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' <br>
+ >SELECT * FROM users *, users.col2, users.col3 FROM table1 JOIN table2 USING(id) <br>
  >SELECT * FROM users WHERE  name = "Олег"
  
  
