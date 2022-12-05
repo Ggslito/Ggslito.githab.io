@@ -1,9 +1,9 @@
 ## Ggslito.github.io
  >https://magasinyashota.wordpress.com/ (Site)
 
- 1) SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
- 2) SELECT * FROM users *, users.col2, users.col3 FROM table1 JOIN table2 USING(id)
- 3) SELECT * FROM users WHERE  name = "Олег"
+ >SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
+ >SELECT * FROM users *, users.col2, users.col3 FROM table1 JOIN table2 USING(id)
+ >SELECT * FROM users WHERE  name = "Олег"
  
  
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114376270/200225977-bbc83422-53fd-4fa7-97f2-883cc2b02b2f.png)
