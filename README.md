@@ -1,5 +1,4 @@
-<script src="https://daruse.ru/assets/js/snowfall.js"></script> <script type="text/javascript"> $(document).snowfall(); </script> <style> .nav div { display: inline-block; } </style>
-
+![](https://sitespectr.ru/wp-content/uploads/2018/11/girlyanda0004.gif)
 
 ## Ggslito.github.io
  >https://magasinyashota.wordpress.com/ (Site)
