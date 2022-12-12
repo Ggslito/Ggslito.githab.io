@@ -1,3 +1,6 @@
+<script src="https://daruse.ru/assets/js/snowfall.js"></script> <script type="text/javascript"> $(document).snowfall(); </script> <style> .nav div { display: inline-block; } </style>
+
+
 ## Ggslito.github.io
  >https://magasinyashota.wordpress.com/ (Site)
 
