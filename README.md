@@ -24,3 +24,13 @@ E_r=k\frac{q}{r^{2}})
 <a href="https://www.google.ru/search?safe=strict&q=%D1%80%D0%B8%D0%BA+%D1%80%D0%BE%D0%BB+%D1%8E%D1%82%D1%83%D0%B1&rlz=1C1GCEU_ruRU831RU831&oq=%D1%80%D0%B8%D0%BA+%D1%80%D0%BE%D0%BB+%D1%8E%D1%82%D1%83%D0%B1&aqs=chrome..69i57.5525j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:2af69e7f,vid:_OxrleJThIs" target="_blank"><img src="![button](https://user-images.githubusercontent.com/114376270/205547243-ea236204-381a-46fb-a0fc-c216a8d23832.png)"></a>
 СДАЮ ЕГЭ
 ОтветынаТИ:14\7,13\12
+Команды:
+1)def f(): / retern <br>
+2)If/else/elif
+3)for/\while
+4)import(turtle,itertools)
+5)with open('') as f:
+6)print
+7)break
+8)sorted
+9)data=[int(x) for x inf]
